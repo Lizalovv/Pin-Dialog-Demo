@@ -1,15 +1,63 @@
+[
+    {
+        "AppName": "Toast Maker Pro",
+        "Version": "2.0",
+"apkSize": "4.5 MB",
+        "packageName": "com.liza.toast",
+        "downloadLink": "https://download.apkcombo.com/ir.ilmili.telegraph/Graph%20Messenger_T10.0.4%20-%20P11.1.2M_apkcombo.com.apk?ecp=aXIuaWxtaWxpLnRlbGVncmFwaC9UMTAuMC40IC0gUDExLjEuMk0vMzgwMzEuN2UxODlkNmY2M2EzMjFlYzVhNmUxOWNjYWE3NmMzMjc4MmU5ZGU5Zi5hcGs=&iat=1694808613&sig=f7b7bb44e9b7ceabb8f70bac946f387e&size=61608973&from=cf&version=old&lang=en&fp=bfc2f43ff402ef1aefda0de9f938506c&ip=152.58.159.65",
+        "IconLink": "https://example.com/toastmakerpro-icon.png"
+    },
+    {
+        "AppName": "Telegram Pro",
+        "Version": "2.0",
+        "apkSize": "64 MB",
+"packageName": "com.telegram.massenger",
+        "downloadLink": "https://telegram.org/",
+        "IconLink": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfDOlL8gIBLWDNw-Jhiuq96DFGM74W-U0RJ8w3xp2zmALIvhDYlWynIfnbqMkLem2se7ltaAW0qEs3E3YLxSqddZeRj572gmLD0cSchjvvrm6KJwfAw7pVU1-PgGdy5PMcAHqHDyMYy1450inQXErZCLOljvqmnVTVZNjXIIU7fhFblwchyIQ0wiO/s1600/20230405_221809.png"
+    },
+    {
+        "AppName": "Truecaller",
+        "Version": "1.0",
+"apkSize": "74.6 MB",
+"packageName": "com.truecaller",
+        "downloadLink": "https://example.com/yourapp.apk",
+        "IconLink": "https://example.com/yourapp-icon.png"
+    },
+
 {
-  "version": "2.0",
-"title": "Pin Service Dialog",
-  "message": "● Pro/Premium Unlocked \n
-● Ads Disabled/Removed\n
-● CPU arch arm64 Only( ◕◡◕ ノ)\n\n
- Please update your app! Liza 😎😎",
-"pinLink": "https://telegram.me/LizaMods",
-"showCancelButton": true,
-"newVersion": "V2 4.5",
-"changelogtext": "Changelog ;",
-"pinCode": "4443",
-"positivebtn": "Open App",
-"negativebtn": "Later"
-}
+        "AppName": "Netflix Pro",
+        "Version": "2.9.6393883",
+"apkSize": "207.79 KB",
+"packageName": "com.netflix.pro",
+        "downloadLink": "https://download.apkcombo.com/ir.ilmili.telegraph/Graph%20Messenger_T10.0.4%20-%20P11.1.2M_apkcombo.com.apk?ecp=aXIuaWxtaWxpLnRlbGVncmFwaC9UMTAuMC40IC0gUDExLjEuMk0vMzgwMzEuN2UxODlkNmY2M2EzMjFlYzVhNmUxOWNjYWE3NmMzMjc4MmU5ZGU5Zi5hcGs=&iat=1694808613&sig=f7b7bb44e9b7ceabb8f70bac946f387e&size=61608973&from=cf&version=old&lang=en&fp=bfc2f43ff402ef1aefda0de9f938506c&ip=152.58.159.65",
+        "IconLink": "https://example.com/toastmakerpro-icon.png"
+    },
+
+
+
+"AppName": "MTT Manager",
+        "Version": "2.13.8",
+"apkSize": "74.6 MB",
+"packageName": "com.truecaller",
+        "downloadLink": "http://bit.ly/45KKnSN",
+        "IconLink": "https://example.com/yourapp-icon.png"
+    },
+
+
+
+"AppName": "UmP Manager",
+        "Version": "1.0",
+"apkSize": "74.6 MB",
+"packageName": "com.truecaller",
+        "downloadLink": "https://example.com/yourapp.apk",
+        "IconLink": "https://example.com/yourapp-icon.png"
+    }
+
+
+
+
+
+
+
+
+]
